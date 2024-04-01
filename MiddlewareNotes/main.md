@@ -54,9 +54,9 @@ Code :
 
 
 # to assign a middleware as a global one there are two methods 
-- *** Modern Way Using *Kenranl.php file* ***
+-  Modern Way Using *Kenranl.php file* 
     - Create Your Middleware Class
     - Register the middleware globally in kernal.php $middleware
-- *** Legacy Way *boatstrap\app.php* ***
+-  Legacy Way *boatstrap\app.php* 
     - Create Your Middleware Class 
     - define it in the boatstrap\app.php
